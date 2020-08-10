@@ -15,8 +15,7 @@ github_username:  unihit
 gplus_username:  unihit
 linkedin_public_url: unihit # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: unihit
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
-
+profile_picture: https://avatars2.githubusercontent.com/u/40714505?s=400&u=7720aa0a841ff20f15ed8fc5690a60f17bc76bfb&v=4
 # Build settings
 markdown: kramdown
 highlighter: rouge
