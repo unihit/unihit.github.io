@@ -43,13 +43,9 @@ github의 자신이 만든 블로그의 repo로 이동하면 code라고 초록�
 
 cmd로 해당 폴더로 이동한 명령줄에서 `git clone` 명령을 입력해 해당 폴더로 clone해온다.
 
-{% highlight bash %}
-
 ```
 git clone https://github.com/닉네임/닉네임.github.io.git
 ```
-
-{% endhighlight %}
 
 지금은 만든 항목이 없어서 README.md밖에 없을 것이다.
 
@@ -67,13 +63,13 @@ git clone https://github.com/닉네임/닉네임.github.io.git
 
 다운로드가 완료되고 
 
-https://github.com/unihit/unihit.github.io/issues/2#issue-677338111
+![최근에 추가된 앱](https://user-images.githubusercontent.com/40714505/89969635-e2b36e00-dc91-11ea-8905-00234909701f.png)
 
 windows 버튼을 누르고 최근에 추가된 앱 항목을 살펴보면 Start Command Prompt with Ruby 항목이 보일텐데 이를 클릭해 실행한다.
 
 실행하면 다음과 같은 화면이 보일 것이다.
 
-https://github.com/unihit/unihit.github.io/issues/1#issue-677337893
+![ruby install](https://user-images.githubusercontent.com/40714505/89969649-ed6e0300-dc91-11ea-9950-01e27d21ae12.PNG)
 
 해당 항목이 보이면 1을 누르고 Enter를 눌러서 설치를 완료하도록 하자.
 
@@ -125,7 +121,7 @@ Server running... press ctrl-c to stop.
 
 테마 설정을 하다 꼬였을 때 가끔씩 Gem::LoadError가 뜨는데 이는
 
-```ruby
+```
 bundle clean --force
 ```
 
