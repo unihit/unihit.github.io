@@ -23,11 +23,11 @@ comments: true
 
 그리고 github에 들어가 로그인 한 뒤에 repository를 만들자.
 
-repo name을 지을 때 닉네임.github.io로 만들어야 한다.
+repo name을 지을 때 `닉네임.github.io`로 만들어야 한다.
 
 Description을 자유롭게 작성하고 public에 체크, initialize this repository with a README 항목도 체크해서 Create repository 버튼을 누르자.
 
-repo가 생성되었다면, 이제 닉네임.github.io이 URL이 되어 브라우저 상단에 입력하면 자신의 블로그에 접속할 수 있게 된다. (아직은 repo만 만들었기 때문에 텅 비어있을 것이다.) 
+repo가 생성되었다면, 이제 `닉네임.github.io`이 URL이 되어 브라우저 상단에 입력하면 자신의 블로그에 접속할 수 있게 된다. (아직은 repo만 만들었기 때문에 텅 비어있을 것이다.) 
 
 ## github블로그를 git clone해와 local repo를 만들어 유지보수하기
 
@@ -47,7 +47,7 @@ cmd로 해당 폴더로 이동한 명령줄에서 `git clone` 명령을 입력�
 git clone https://github.com/닉네임/닉네임.github.io.git
 ```
 
-지금은 만든 항목이 없어서 README.md밖에 없을 것이다.
+지금은 만든 항목이 없어서 `README.md`밖에 없을 것이다.
 
 ## Ruby 설치하기
 
@@ -65,7 +65,7 @@ git clone https://github.com/닉네임/닉네임.github.io.git
 
 ![최근에 추가된 앱](https://user-images.githubusercontent.com/40714505/89969635-e2b36e00-dc91-11ea-8905-00234909701f.png)
 
-windows 버튼을 누르고 최근에 추가된 앱 항목을 살펴보면 Start Command Prompt with Ruby 항목이 보일텐데 이를 클릭해 실행한다.
+windows 버튼을 누르고 최근에 추가된 앱 항목을 살펴보면 `Start Command Prompt with Ruby` 항목이 보일텐데 이를 클릭해 실행한다.
 
 실행하면 다음과 같은 화면이 보일 것이다.
 
@@ -119,7 +119,7 @@ Server running... press ctrl-c to stop.
 
 ---
 
-테마 설정을 하다 꼬였을 때 가끔씩 Gem::LoadError가 뜨는데 이는
+테마 설정을 하다 꼬였을 때 가끔씩 `Gem::LoadError`가 뜨는데 이는
 
 ```
 bundle clean --force
