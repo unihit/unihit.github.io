@@ -1,5 +1,3 @@
-# How to make github Blog
-
 ## github 블로그를 시작하기 전에..
 
 ---
@@ -56,13 +54,13 @@ git clone https://github.com/닉네임/닉네임.github.io.git
 
 다운로드가 완료되고 
 
-![How%20to%20Make%20github%20io%20Blog%20b829a08bc8774bac883c078572138504/__.png](How%20to%20Make%20github%20io%20Blog%20b829a08bc8774bac883c078572138504/__.png)
+![최근에 추가된 앱](C:\Users\hippo\Downloads\최근에 추가된 앱.png)
 
 windows 버튼을 누르고 최근에 추가된 앱 항목을 살펴보면 Start Command Prompt with Ruby 항목이 보일텐데 이를 클릭해 실행한다.
 
 실행하면 다음과 같은 화면이 보일 것이다.
 
-![How%20to%20Make%20github%20io%20Blog%20b829a08bc8774bac883c078572138504/ruby_install.png](How%20to%20Make%20github%20io%20Blog%20b829a08bc8774bac883c078572138504/ruby_install.png)
+![ruby install](C:\Users\hippo\Downloads\ruby install.PNG)
 
 해당 항목이 보이면 1을 누르고 Enter를 눌러서 설치를 완료하도록 하자.
 
@@ -119,3 +117,5 @@ bundle clean --force
 ```
 
 해당 명령어를 사용해 bundle을 clean해주면 잘 작동하게 된다.
+
+repo에 푸시하고 블로그에 적용되는데 시간이 좀 걸릴 수 있으니 기다려보자.
