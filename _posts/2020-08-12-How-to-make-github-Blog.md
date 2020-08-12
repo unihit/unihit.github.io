@@ -43,9 +43,13 @@ github의 자신이 만든 블로그의 repo로 이동하면 code라고 초록�
 
 cmd로 해당 폴더로 이동한 명령줄에서 `git clone` 명령을 입력해 해당 폴더로 clone해온다.
 
+{% highlight bash %}
+
 ```
 git clone https://github.com/닉네임/닉네임.github.io.git
 ```
+
+{% endhighlight %}
 
 지금은 만든 항목이 없어서 README.md밖에 없을 것이다.
 
@@ -63,13 +67,13 @@ git clone https://github.com/닉네임/닉네임.github.io.git
 
 다운로드가 완료되고 
 
-![최근에 추가된 앱](C:\Users\hippo\Downloads\최근에 추가된 앱.png)
+https://github.com/unihit/unihit.github.io/issues/2#issue-677338111
 
 windows 버튼을 누르고 최근에 추가된 앱 항목을 살펴보면 Start Command Prompt with Ruby 항목이 보일텐데 이를 클릭해 실행한다.
 
 실행하면 다음과 같은 화면이 보일 것이다.
 
-![ruby install](C:\Users\hippo\Downloads\ruby install.PNG)
+https://github.com/unihit/unihit.github.io/issues/1#issue-677337893
 
 해당 항목이 보이면 1을 누르고 Enter를 눌러서 설치를 완료하도록 하자.
 
