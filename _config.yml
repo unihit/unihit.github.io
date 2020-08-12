@@ -40,19 +40,19 @@ disqus_shortname:   unihit
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            unihit
-facebook:           unihit
-github-url:         https://github.com/unihit
+twitter:            #unihit
+facebook:           #unihit
+github-url:         github.com/unihit
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          #username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              #username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
