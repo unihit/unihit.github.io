@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Blog] How to make image link
+title: How to make image link
 date: 2020-08-12
 excerpt: "Blog에 붙이기 위한 이미지 링크 쉽게 만들기"
 category: [Blog]
