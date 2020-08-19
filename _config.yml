@@ -39,10 +39,10 @@ disqus_shortname:   unihit
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              unihit.naver.com
+email:              unihit@naver.com
 twitter:            #unihit
 facebook:           #unihit
-github-url:         github.com/unihit
+github-url:         unihit
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
