@@ -2,8 +2,8 @@ remote_theme : TaylanTatli/Moon
 
 # Site
 title:              unihit
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'New Blog.'
+description:        "New Developer."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,7 +39,7 @@ disqus_shortname:   unihit
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              unihit.naver.com
 twitter:            #unihit
 facebook:           #unihit
 github-url:         github.com/unihit
