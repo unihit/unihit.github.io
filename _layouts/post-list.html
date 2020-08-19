@@ -14,6 +14,7 @@ layout: compress
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
+            <!-- 생략 (포스트 목록 나타내는 코드) -->
             <div class="content">
                 <div class="post-title">
                     <h1>{{ page.title }}</h1>
@@ -36,6 +37,8 @@ layout: compress
                 </div>
             </div>
         </div>
+        <!-- 카테고리 -->
+        {% include categorybox.html %}
     </header>
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
