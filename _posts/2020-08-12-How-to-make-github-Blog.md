@@ -7,6 +7,12 @@ tags: [sample post, blog, github.io, theme]
 comments: true
 ---
 
+## Contents
+{:.no_toc}
+---
+
+{:toc}
+
 ## github 블로그를 시작하기 전에..
 
 ---
