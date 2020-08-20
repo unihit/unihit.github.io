@@ -3,6 +3,7 @@ layout: post
 title: How to make github Blog
 date: 2020-08-12
 excerpt: "Jekyll 테마를 이용해서 github 블로그를 만드는 방법"
+category: [Blog]
 tags: [sample post, blog, github.io, theme]
 comments: true
 ---
@@ -10,7 +11,7 @@ comments: true
 ## Contents
 {:.no_toc}
 ---
-
+* 
 {:toc}
 
 ## github 블로그를 시작하기 전에..
